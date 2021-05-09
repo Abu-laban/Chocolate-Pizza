@@ -1,0 +1,166 @@
+header div {
+  display: inline-block;
+  margin-top: 32px;
+}
+
+h1 {
+  font-family: "Satisfy", cursive;
+  font-size: 35px;
+  margin-left: 10px;
+}
+
+h3 {
+  font-family: "Athiti", sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+  font-weight: 400;
+}
+
+header ul li {
+  display: inline-block;
+}
+
+header ul {
+  float: right;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+header ul:last-child {
+  margin-left: 65px;
+}
+
+header hr,main hr {
+  height: 10px;
+  background-image: url(https://github.com/Abu-laban/Chocolate-Pizza/blob/main/img/hr-img.png?raw=true);
+  background-repeat: repeat;
+  border: 0;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+body {
+  width: 70%;
+  margin: auto;
+}
+
+h2 {
+  font-family: "Anton", sans-serif;
+  font-size: 30px;
+  margin-top: 30px;
+}
+
+h4 {
+  font-family: "Athiti", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+#print {
+float: right;
+margin-bottom: 30px;
+}
+
+#print span{
+    font-family: "Athiti", sans-serif;
+}
+
+#chocoPizza {
+  width: 100%;
+}
+
+p {
+    font-family: 'Lateef', cursive;
+    font-size: 20px;
+    margin-top: 30px;
+    color: gray;
+    text-indent: 30px;
+  }
+
+#note {
+  background-image: url("https://github.com/Abu-laban/Chocolate-Pizza/blob/main/img/list-bg.png?raw=true");
+  background-repeat: no-repeat;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 15%;
+  margin-right: auto;
+}
+
+
+form li {
+    display: block;
+}
+
+input[type=checkbox]:checked + label {
+    text-decoration: line-through;
+}
+#checkBoxForm{
+    font-family: 'Patrick Hand', cursive;
+    color: gray;
+    width: 100%;
+    
+}
+#first{
+    margin-left: 10%;
+}
+#second{
+    margin-left: 50%;
+    margin-top: -12vh;
+}
+
+#last {
+    color: gray;
+    display: inline-block;
+    font-family: "Anton", sans-serif;
+    width: 75%;
+}
+#last img:first-child{
+    display: inline-block;
+}
+#vanPic {
+    position: absolute;
+}
+
+#name {
+    font-size: x-large;
+    font-weight: 900;
+    margin-bottom: 12px;
+    margin-left: 75px;
+}
+
+#last p {
+    font-size: large;
+    margin-left: 15%;
+    width: 80%;
+}
+
+#share {
+    display: inline;
+
+}
+
+#share button {
+    color: white;
+    background-color: #ca8767;
+    float: right;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 31px;
+    padding: 12px;
+    width: 15vw;
+}
+
+footer {
+    text-align: center;
+    margin-top: 60px; 
+}
+
+footer hr{
+    border-top: 1px solid gray;
+    display: inline-block;
+    width: 45%;
+}
+
+#footerP{
+    margin: 0;
+    margin-bottom: 80px;
+}
